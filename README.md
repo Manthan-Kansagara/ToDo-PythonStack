@@ -260,7 +260,6 @@ The database uses a Docker volume to persist its data.
 
 - **Frontend:** [FRONTEND](https://todo-pythonstack-4j2glsque86skkvclvchbj.streamlit.app)
 - **Backend API:** [BACKEND](https://todo-management-api-qkuv.onrender.com/docs)
-- **API Documentation:** [BACKEND/docs](https://todo-management-api-qkuv.onrender.com/docs)
 
 ## 🧪 Example Workflow
 
