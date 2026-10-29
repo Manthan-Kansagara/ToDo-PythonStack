@@ -256,4 +256,18 @@ The database uses a Docker volume to persist its data.
 
 ---
 
+## 🌐 Live Demo
+
+- **Frontend:** [STREAMLIT] (https://todo-pythonstack-4j2glsque86skkvclvchbj.streamlit.app)
+- **Backend API:** [RENDER](https://todo-management-api-qkuv.onrender.com/docs)
+- **API Documentation:** [RENDER/docs](https://todo-management-api-qkuv.onrender.com/docs)
+
+## 🧪 Example Workflow
+
+1. Open the frontend.
+2. Create a task.
+3. Edit the title or description.
+4. Mark the task as completed.
+5. Delete the task when finished.
+
 *Built as a hands-on project to strengthen software engineering and backend development skills.*
