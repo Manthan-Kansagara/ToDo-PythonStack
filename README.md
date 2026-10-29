@@ -258,9 +258,9 @@ The database uses a Docker volume to persist its data.
 
 ## 🌐 Live Demo
 
-- **Frontend:** [STREAMLIT] (https://todo-pythonstack-4j2glsque86skkvclvchbj.streamlit.app)
-- **Backend API:** [RENDER](https://todo-management-api-qkuv.onrender.com/docs)
-- **API Documentation:** [RENDER/docs](https://todo-management-api-qkuv.onrender.com/docs)
+- **Frontend:** [FRONTEND](https://todo-pythonstack-4j2glsque86skkvclvchbj.streamlit.app)
+- **Backend API:** [BACKEND](https://todo-management-api-qkuv.onrender.com/docs)
+- **API Documentation:** [BACKEND/docs](https://todo-management-api-qkuv.onrender.com/docs)
 
 ## 🧪 Example Workflow
 
